@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileBootcamp.HomeView">
+  <StackLayout VerticalOptions="Start">
+    <Label HorizontalTextAlignment="Center" Text="Todo List Manager" />
+    <Grid>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="Auto" />
+      </Grid.ColumnDefinitions>
+      <Entry x:Name="TextData" Grid.Column="0" />
+      <Button Grid.Column="1" Text="+" Clicked="OnClick" />
+    </Grid>
+    <ListView x:Name="ListData" ItemSelected="OnSelection">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding Text}" Detail="{Binding Id}" />
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>

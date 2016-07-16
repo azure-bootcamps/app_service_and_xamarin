@@ -13,7 +13,7 @@ In this exercise, you will use controls designed to render collections to render
   - Set the **ItemsSource** property of the *ListView* instance to a collection of fake
 - Create an **ItemTemplate** for your *ListView* instance
   - Within the *ItemTemplate* instance, use an instance of the **TextCard** class to render the *Text* and *Id* properties of each *TodoItem* in your collection
-  
+
 ### Support
 
 Here is some sample to-do items that you can use in your code:
@@ -22,7 +22,8 @@ Here is some sample to-do items that you can use in your code:
 List<TodoItem> todoItems = new List<TodoItem>
 {
   new TodoItem { Id = "0001", Text = "Original Task" },
-  new TodoItem { Id = "0002", Text = "Follow-up Request" }
+  new TodoItem { Id = "0002", Text = "Follow-up Request" },
+  new TodoItem { Id = "0003", Text = "Eventual Mistake" }
 };
 ```
 
