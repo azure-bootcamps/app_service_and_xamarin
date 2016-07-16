@@ -22,4 +22,4 @@ Your solution should look similar to the solution located in this directory: [$/
 
 To validate your solution, simply run it in the Android emulator or as a local UWP application.
 
-![Running in Android Emulator](../media/.png)
+![Running in Android Emulator](../media/01_complete.png)

@@ -4,9 +4,13 @@
 
 In this bootcamp, we will explore both Xamarin and the Azure App Service Mobile Apps feature using a three-prong approach:
 
-- First, a facilitator will show you how to implement features
-- Next, you will have a hands-on exercise where you try to implement the feature[s] yourself.
-- Finally, you will either verify with a proctor or verify using the "solution" that you implemented the feature[s].
+- First, a facilitator will show you how to implement feature
+- Next, you will have a hands-on exercise where you try to implement the feature[s] yourself
+- Finally, you will either verify with a proctor or verify using the "solution" that you implemented the feature[s]
+
+### Scenario
+
+In this series of exercises, you will be building a basic to-do application using Xamarin for the interfaces and Azure App Service Mobile Apps for the application back-end services.
 
 ### Pre-requisites
 
