@@ -1,4 +1,4 @@
-# Use Data from Azure Mobile Apps Using a HTTP Client
+# Get Data from Azure Mobile Apps Using a HTTP Client
 
 ## Overview
 

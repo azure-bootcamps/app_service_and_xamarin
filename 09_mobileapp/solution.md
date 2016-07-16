@@ -1,4 +1,4 @@
-# **Solution:** Use Data from Azure Mobile Apps Using a HTTP Client
+# **Solution:** Get Data from Azure Mobile Apps Using a HTTP Client
 
 ![Solution](../media/09_complete.png)
 

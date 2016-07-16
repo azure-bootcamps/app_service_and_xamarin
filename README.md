@@ -30,5 +30,5 @@ This bootcamp is composed of ten core exercises:
 1. [Implement Navigation and a Second Page](06_navigation/)
 1. [Re-design User Interfaces Using XAML](07_xaml/)
 1. [Create an Azure Mobile Apps Instance](08_appservice/)
-1. [Use Data from Azure Mobile Apps Using a HTTP Client](09_mobileapp/)
+1. [Get Data from Azure Mobile Apps Using a HTTP Client](09_mobileapp/)
 1. [Updating the Platform-Specific Look & Feel of Your Application](10_visual/)
