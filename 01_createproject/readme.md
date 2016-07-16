@@ -1,4 +1,4 @@
-# Create a Xamarin Project in Visual Studio 2015 Update 3
+# Create a Xamarin Project in Visual Studio
 
 ## Overview
 
